@@ -6,7 +6,6 @@
 ### 🌐 About Me
 🎓 Computer Science Major (Economics Minor), University of Manitoba 
 💻 Passionate about **intelligent systems, adaptive UIs, and scalable full-stack development**  
-📍 Based in Winnipeg, Canada | 🌱 Exploring **AI/ML & open-source contributions**  
 
 ---
 
@@ -20,6 +19,3 @@
 - 🔗 **[P2P File Sharing System](https://github.com/Trkun/P2P-File-Sharing-System)** — TCP-based networking with gossip protocol & CLI  
 
 ---
-
-### 📊 Stats
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trkun&layout=compact&theme=tokyonight" alt="Top Langs" />
