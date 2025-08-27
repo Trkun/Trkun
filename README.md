@@ -1,16 +1,28 @@
-## Hi there 👋
+# Rui Zhang  
+**Open. Adaptive. Scalable.**
 
-<!--
-**Trkun/Trkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 About Me
+🎓 Computer Science Major (Economics Minor), University of Manitoba 
+💻 Passionate about **intelligent systems, adaptive UIs, and scalable full-stack development**  
+📍 Based in Winnipeg, Canada | 🌱 Exploring **AI/ML & open-source contributions**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Domain:** [github.com/Trkun](https://github.com/Trkun)  
+
+---
+
+### 🔧 Tech Stack
+- **Languages:** Python | C++ | JavaScript (React) | R | SQL  
+- **Tools & Platforms:** Linux | Git | Node.js | Cloud (AWS/Azure)  
+
+---
+
+### 📌 Highlight Projects
+- 🔗 **[P2P File Sharing System](#)** — TCP-based networking with gossip protocol & CLI  
+- 🧠 **[Intelligent User Interfaces](#)** — adaptive user modeling research  
+
+---
+
+### 📊 Stats
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trkun&layout=compact&theme=tokyonight" alt="Top Langs" />
