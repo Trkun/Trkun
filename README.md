@@ -17,8 +17,8 @@
 ---
 
 ### 📌 Highlight Projects
-- 🔗 **[P2P File Sharing System](#)** — TCP-based networking with gossip protocol & CLI  
-- 🧠 **[Intelligent User Interfaces](#)** — adaptive user modeling research  
+- 🔗 **[P2P File Sharing System](https://github.com/Trkun/P2P-File-Sharing-System)** — TCP-based networking with gossip protocol & CLI  
+- 🧠 **[Intelligent User Interfaces]** — adaptive user modeling research  
 
 ---
 
