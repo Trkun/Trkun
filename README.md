@@ -8,8 +8,6 @@
 💻 Passionate about **intelligent systems, adaptive UIs, and scalable full-stack development**  
 📍 Based in Winnipeg, Canada | 🌱 Exploring **AI/ML & open-source contributions**  
 
-🔗 **Domain:** [github.com/Trkun](https://github.com/Trkun)  
-
 ---
 
 ### 🔧 Tech Stack
